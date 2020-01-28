@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Localizarea Aplicatiei</string>
+    <string name="toast">Acesta este o felicitare</string>
+    <string name="hello_world">Salut Lume !</string>
+    <string name="do_something">Fă ceva</string>
+</resources>
